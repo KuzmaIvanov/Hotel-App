@@ -355,6 +355,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
                 android:clickable="true"
                 app:cardBackgroundColor="@color/white">
 
@@ -410,6 +411,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:visibility="gone"
+        tools:visibility="visible"
         app:constraint_referenced_ids="booking_scroll_view, pay_button" />
 
     <com.google.android.material.progressindicator.CircularProgressIndicator
