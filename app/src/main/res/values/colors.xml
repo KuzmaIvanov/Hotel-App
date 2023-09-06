@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_main">#0D72FF</color>
+    <color name="blue_secondary">#1A0D72FF</color>
+    <color name="gray_text">#828796</color>
+    <color name="dark_gray_text">#2C3035</color>
+    <color name="light_gray_card">#FBFBFC</color>
+    <color name="dark_yellow_chip">#FFA800</color>
+    <color name="yellow_chip">#33FFC700</color>
+    <color name="gray_edit_text">#F6F6F9</color>
+    <color name="gray_hint_edit_text">#A9ABB7</color>
+    <color name="dark_blue_edit_text">#14142B</color>
+    <color name="red_error">#26EB5757</color>
+</resources>
